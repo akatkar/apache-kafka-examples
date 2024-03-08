@@ -29,6 +29,8 @@
 
 2. Create a topic "kafka.learning.tweets" with 4 partitions and 3 replicas
 
+4. You can use Kafdrop Kafka UI to create topics: http://localhost:9900/
+
 # Resiliency in Action
 
 1. Login to kafka-3 using

@@ -76,7 +76,7 @@ services:
     image: 'obsidiandynamics/kafdrop:3.32.0-SNAPSHOT'
     restart: "no"
     ports:
-      - 9000:9000
+      - "9900:9000"
     
     environment:
       - KAFKA_BROKERCONNECT=kafka-1:19092,kafka-2:19093,kafka-3:19094
