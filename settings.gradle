@@ -1,0 +1,8 @@
+rootProject.name = 'apache-kafka-examples'
+include 'kafka-basics'
+include 'kafka-with-spring-boot'
+include 'kafka-producer-wikimedia'
+include 'kafka-consumer-opensearch'
+include 'kafka-streams-wikimedia'
+include 'kafka-scalable-application'
+

@@ -1,0 +1,13 @@
+plugins {
+}
+
+group = 'com.akatkar.kafka'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
+
